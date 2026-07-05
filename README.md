@@ -16,7 +16,6 @@
 ## 🧑‍💻 About Me
 
 ```python
-class Faiyaz:
     name       = "Md. Faiyaz Mutadayin"
     role       = ["Full-Stack Developer", "AI/ML Researcher"]
     university = "American International University-Bangladesh (AIUB)"
