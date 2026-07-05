@@ -16,13 +16,13 @@
 ## 🧑‍💻 About Me
 
 ```python
-    name       = "Md. Faiyaz Mutadayin"
-    role       = ["Full-Stack Developer", "AI/ML Researcher"]
-    university = "American International University-Bangladesh (AIUB)"
-    degree     = "BSc in Computer Science Engineering — Final Year"
-    location   = "Dhaka, Bangladesh 🇧🇩"
-    research   = ["Deep Learning", "Computer Vision", "Transfer Learning"]
-    status     = "Open to internships & junior developer roles 🟢"
+    name       = Md. Faiyaz Mutadayin
+    role       = Full-Stack Developer, AI/ML Researcher
+    university = American International University-Bangladesh (AIUB)
+    degree     = BSc in Computer Science Engineering — Final Year
+    location   = Dhaka, Bangladesh 🇧🇩
+    research   = Deep Learning, Computer Vision, Transfer Learning
+    status     = Open to internships & junior developer roles 🟢
 ```
 
 ## 🛠️ Tech Stack
