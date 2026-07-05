@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfaiyazmutadayin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiyazmz720@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdfaiyazmutadayin)
 [![IEEE](https://img.shields.io/badge/IEEE-ICCA_2026_Under_Review-00629B?style=for-the-badge&logo=ieee&logoColor=white)](#)
 
@@ -25,17 +25,6 @@ class Faiyaz:
     research   = ["Deep Learning", "Computer Vision", "Transfer Learning"]
     status     = "Open to internships & junior developer roles 🟢"
 ```
-
----
-
-## 🔬 Research & Publications
-
-| Year | Project | Details | Status |
-|------|---------|---------|--------|
-| 2026 | **PlumNet-HDA** | Hybrid EfficientNetV2-S + CBAM + Transformer · 99.44% accuracy · Plum disease classification | 📝 Manuscript |
-| 2026 | **CropNet (Transfer Learning)** | ResNet-50 · EfficientNet-B0 · MobileNetV2 · Grad-CAM interpretability · AgriVision Bangladesh | ⏳ IEEE ICCA 2026 — Under Review |
-
----
 
 ## 🛠️ Tech Stack
 
