@@ -8,7 +8,8 @@
 ```
 
 ```bash
-$ cat about_me.txt
+# Hi, I'm Faiyaz 👋
+### Full-Stack Developer & AI/ML Researcher
 ```
 
 ```
